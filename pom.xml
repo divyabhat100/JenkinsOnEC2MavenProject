@@ -27,7 +27,6 @@
 <configuration>
 <skip>true</skip>
 </configuration>
-<configuration>...</configuration>
 </plugin>
     <plugin>
       <groupId>org.jacoco</groupId>
